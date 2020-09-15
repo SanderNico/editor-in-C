@@ -4,6 +4,9 @@ This project is made by following this guide: https://viewsourcecode.org/snaptok
 
 I wanted to start this project to get a deeper understanding of the C language, and to create a text-editor that suits my preferences. Hopefully, i will continue to develop the editor in the future.
 
+## TODOs:
+* **Clear the terminal**
+
 ## Possible future development
 * **Add comments**: The source code is currently poorly documented. Will add comments in the near future.
 
